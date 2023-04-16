@@ -171,12 +171,3 @@
     font-size: 1em;
   }
 } */
-
-#section2 {
-  position: relative;
-  padding-top: 750px;
-}
-
-.card {
-  box-shadow: 0 4px 8px black;
-}
