@@ -1,0 +1,2 @@
+# Travel-website
+Travel Explorer is a simple yet captivating front-end travel website crafted using HTML and CSS. Dive into a visual journey with our destination gallery, plan your trips and contact us page. To experience Travel Explorer, clone the repository and open index.html in your preferred browser. No additional dependencies or frameworks are needed—just pure HTML and CSS magic. Feel free to contribute or customize as you explore the world through our virtual travel portal. Safe travels! 🌍✈️
